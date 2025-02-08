@@ -75,7 +75,7 @@ FIREBASE_STORAGE_BUCKET=your_firebase_bucket
 ```bash
 npm start
 ```
-Server runs at **http://localhost:5000**  
+Server runs at **http://localhost:3000**  
 
 ---
 
